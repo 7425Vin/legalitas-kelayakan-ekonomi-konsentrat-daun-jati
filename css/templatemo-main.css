@@ -154,7 +154,7 @@ a:hover { color: #FF0; }
   font-size: 48px;
   color: #fff;
   font-weight: 900;
-  text-transform: uppercase;
+/*   text-transform: uppercase; */
   margin-bottom: 0px;
 }
 
@@ -754,3 +754,4 @@ body.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
